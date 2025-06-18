@@ -7,3 +7,4 @@ This includes the things learned and executed before working on the 2nd SQL proj
    ii)Avg,
    iii) Min, Max
    iv) Median (percentile)
+3) Using Advanced Segementing to Categorize Revenue Values into Tiers based of High, Low and Medium Percentiles.
