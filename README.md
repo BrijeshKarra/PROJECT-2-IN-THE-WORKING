@@ -10,4 +10,10 @@ This includes the things learned and executed before working on the 2nd SQL proj
 * Using Advanced Segementation to Categorize Revenue Values into Tiers based on High, Low and Medium Percentiles.
 
 ## SECOND LESSON: DATE
-*
+* Used various date manipulating functions:
+   * DATE_TRUNC()
+   * TO_CHAR()
+   * DATE_TYPE
+   * CURRENT_DATE
+   * INTERVAL ''
+   * and my favourite, EXTRACT( )
