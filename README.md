@@ -17,3 +17,4 @@ This includes the things learned and executed before working on the 2nd SQL proj
    * CURRENT_DATE
    * INTERVAL ''
    * and my favourite, EXTRACT( )
+## THIRD LESSON: WINDOW FUNCTION
