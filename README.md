@@ -17,6 +17,7 @@ This includes the things learned and executed before working on the 2nd SQL proj
    * CURRENT_DATE
    * INTERVAL ''
    * and my favourite, EXTRACT( )
+  
 ## THIRD LESSON: WINDOW FUNCTION
  Leanrned How to use WINDOW FUNCTIONs and used them in several examples:
 ### PART 1: BASICS (including using SUBQUERY and CTEs)
@@ -26,7 +27,7 @@ This includes the things learned and executed before working on the 2nd SQL proj
 ### PART 2: COHORT ANALYSIS
    * MIN() OVER( PARTITION BY)
    * COUNT() OVER( PARTION BY)
-   * AVG( ) OVER( PARTITION BY) - FOR CUSTOMER/AVERAGE LIFETIME VALUE (LTV,ATV)
+   * AVG() OVER( PARTITION BY) - FOR CUSTOMER/AVERAGE LIFETIME VALUE (LTV,ATV)
 ### PART 3: Advance use of WINDOW FUNCTIONs to:
   * Calculate - Running Order Count And Running Average Revenue with ORDER BY
   * Find - ROW_NUMBER(), RANK(), DENSE_RANK()
