@@ -26,7 +26,7 @@ This includes the things learned and executed before working on the 2nd SQL proj
   * ROW_NUMBER() OVER(PARTITION BY ORDER BY)
 ### PART 2: COHORT ANALYSIS
    * MIN() OVER( PARTITION BY)
-   * COUNT() OVER( PARTION BY)
+   * COUNT() OVER( PARTITION BY)
    * AVG() OVER( PARTITION BY) - FOR CUSTOMER/AVERAGE LIFETIME VALUE (LTV,ATV)
 ### PART 3: Advance use of WINDOW FUNCTIONs to:
   * Calculate - Running Order Count And Running Average Revenue with ORDER BY
