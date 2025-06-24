@@ -1,5 +1,7 @@
 # PROJECT-2-IN-THE-WORKING
 This includes the things learned and executed before working on the 2nd SQL project: [Project_Sales_Analysis](https://github.com/BrijeshKarra/Project_Sales_Analysis) 
+Based on the online course [SQL for Data Analytics – Intermediate Course + Project](https://www.lukebarousse.com/int-sql) by [Luke Barousse](https://github.com/lukebarousse).
+
 ## FIRST LESSON: PIVOTING
 * Concept of CASE STATEMENT
 * Applying CASE STATEMENTS In Calculating:
@@ -9,7 +11,7 @@ This includes the things learned and executed before working on the 2nd SQL proj
    * Median (percentile)
 * Using Advanced Segementation to Categorize Revenue Values into Tiers based on High, Low and Medium Percentiles.
 
-## SECOND LESSON: DATE
+## SECOND LESSON: DATE 
 * Used various date manipulating functions:
    * DATE_TRUNC()
    * TO_CHAR()
@@ -19,7 +21,7 @@ This includes the things learned and executed before working on the 2nd SQL proj
    * and my favourite, EXTRACT( )
   
 ## THIRD LESSON: WINDOW FUNCTION
- Leanrned How to use WINDOW FUNCTIONs and used them in several examples:
+ Leanrned how to use WINDOW FUNCTIONs and used them in several examples:
 ### PART 1: BASICS (including using SUBQUERY and CTEs)
   * AVG() OVER( PARTITION BY)
   * SUM() OVER( PARTITION BY)
@@ -35,4 +37,10 @@ This includes the things learned and executed before working on the 2nd SQL proj
   * Calculate LAG(), LEAD()
   * Find - Month Over Month and YEAR OVER YEAR Growth using LAG()
   * Implement FRAME CLAUSES - ROWS AND CURRENT ROW
-  
+    
+## Final Lesson: 
+* Learned how to use VIEW in PostgreSQL
+* Learned Conditional Handling
+   * COALESCE()
+   * NULLIF()
+* Lastly, Query Optimization techniques.
