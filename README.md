@@ -1,6 +1,7 @@
 # PROJECT-2-IN-THE-WORKING
 This includes the things learned and executed before working on the 2nd SQL project: [Project_Sales_Analysis](https://github.com/BrijeshKarra/Project_Sales_Analysis).
-Based on the online course [SQL for Data Analytics – Intermediate Course + Project](https://www.lukebarousse.com/int-sql) by [Luke Barousse](https://github.com/lukebarousse).
+
+The learning is based on the online course [SQL for Data Analytics – Intermediate Course + Project](https://www.lukebarousse.com/int-sql) by [Luke Barousse](https://github.com/lukebarousse).
 
 ## FIRST LESSON: PIVOTING
 * Concept of CASE STATEMENT
