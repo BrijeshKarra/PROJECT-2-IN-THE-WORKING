@@ -1,5 +1,5 @@
 # PROJECT-2-IN-THE-WORKING
-This includes the things learned and executed before working on the 2nd SQL project.
+This includes the things learned and executed before working on the 2nd SQL project: [Project_Sales_Analysis](https://github.com/BrijeshKarra/Project_Sales_Analysis) 
 ## FIRST LESSON: PIVOTING
 * Concept of CASE STATEMENT
 * Applying CASE STATEMENTS In Calculating:
