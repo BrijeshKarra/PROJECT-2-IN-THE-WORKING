@@ -1,4 +1,4 @@
-# PROJECT-2-IN-THE-WORKING
+# Introduction
 This includes the topics learned and executed before working on the 2nd SQL project: [Project_Sales_Analysis](https://github.com/BrijeshKarra/Project_Sales_Analysis).
 
 The learning is based on the online course [SQL for Data Analytics – Intermediate Course + Project](https://www.lukebarousse.com/int-sql) by [Luke Barousse](https://github.com/lukebarousse).
